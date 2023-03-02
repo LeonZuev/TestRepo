@@ -1,3 +1,6 @@
+.idea/
+*.eml
+
 # Compiled class file
 *.class
 
